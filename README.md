@@ -53,7 +53,7 @@
   - 笔记  
     - GAN知识整理
   ##  
-- **自然语言处理  
+- **自然语言处理**  
   - 课程与书籍学习  
     -
   - 笔记  
@@ -74,4 +74,4 @@
 ## 编程语言
 ## LaTeX
 ## Markdown
-  - [基本语法](https://github.com/Sierkinhane/AboutSierkinhane/blob/master/Markdown/Markdown.md)
+  - **[基本语法]**(https://github.com/Sierkinhane/AboutSierkinhane/blob/master/Markdown/Markdown.md)
