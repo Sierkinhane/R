@@ -6,6 +6,7 @@
     - 机器学习基石与技法 -- 林轩田  
     - Machine Learning -- 李宏毅  
   - 笔记  
+    - 你好
 - 深度学习  
   - 课程与书籍学习  
     - Deeplearning.ai -- 吴恩达  
