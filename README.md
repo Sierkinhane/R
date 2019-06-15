@@ -8,7 +8,7 @@
   
 
 ## 人工智能  
--  \*\*机器学习\*\*  
+-  **机器学习**  
   - 课程与书籍学习  
     - 斯坦福CS229 -- 吴恩达  
     - 《统计学习方法》 -- 李航  
@@ -17,7 +17,7 @@
   - 笔记  
     - 机器学习知识整理
   ##
-- 深度学习  
+- **深度学习**  
   - 课程与书籍学习  
     - Deeplearning.ai -- 吴恩达  
     - 《深度学习》 -- Ian Goodfellow  
@@ -40,34 +40,34 @@
     - 超分辨率
       - 空
   ##  
-- 强化学习  
+- **强化学习**  
   - 课程与书籍学习  
     - Reinforcement Learning  
   - 笔记  
     - 强化学习知识整理
     - 代码实践 
   ##  
-- GAN  
+- **GAN**  
   - 课程与书籍学习  
     - [GAN -- 李宏毅](https://www.youtube.com/watch?v=DQNNMiAP5lw&list=PLJV_el3uVTsMq6JEFPW35BCiOQTsoqwNw)  
   - 笔记  
     - GAN知识整理
   ##  
-- 自然语言处理  
+- **自然语言处理  
   - 课程与书籍学习  
     -
   - 笔记  
     -
 
 ## 数学  
-- 线性代数  
+- **线性代数  
   - 课程与书籍学习  
     - [Linear Algebra -- 李宏毅](https://www.youtube.com/watch?v=uUrt8xgdMbs&list=PLJV_el3uVTsNmr39gwbyV-0KjULUsN7fW)  
   ##
-- 概率论  
+- **概率论  
   - 张宇  
   ##
-- 高等数学  
+- **高等数学  
   - 张宇  
       
 ## CUDA编程
