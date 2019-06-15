@@ -1,4 +1,11 @@
-##
+## Contents
+1. [Introduction](#introduction)
+2. [Compatibility](#compatibility)
+3. [Installation](#installation)
+4. [Testing](#testing)
+5. [Exporting Python OpenPose](#exporting-python-openpose)
+6. [Common Issues](#common-issues)
+
 - [标题](#标题)  
 - 段落  
 - 区块引用  
@@ -60,13 +67,6 @@
 - 重点  
 ###标题
 
-## Contents
-1. [Introduction](#introduction)
-2. [Compatibility](#compatibility)
-3. [Installation](#installation)
-4. [Testing](#testing)
-5. [Exporting Python OpenPose](#exporting-python-openpose)
-6. [Common Issues](#common-issues)
 
 
 
