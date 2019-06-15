@@ -4,7 +4,7 @@
     - 斯坦福CS229 -- 吴恩达  
     - 《统计学习方法》 -- 李航  
     - 机器学习基石与技法 -- 林轩田  
-    - Machine Learning -- 李宏毅  
+    - [Machine Learning](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ) -- 李宏毅  
   - 笔记  
     - 机器学习知识整理
   ##
