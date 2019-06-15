@@ -60,14 +60,14 @@
     -
 
 ## 数学  
-- **线性代数  
+- **线性代数**  
   - 课程与书籍学习  
     - [Linear Algebra -- 李宏毅](https://www.youtube.com/watch?v=uUrt8xgdMbs&list=PLJV_el3uVTsNmr39gwbyV-0KjULUsN7fW)  
   ##
-- **概率论  
+- **概率论**  
   - 张宇  
   ##
-- **高等数学  
+- **高等数学**  
   - 张宇  
       
 ## CUDA编程
