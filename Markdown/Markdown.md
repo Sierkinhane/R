@@ -34,6 +34,6 @@
   > 区块引用
   >> 嵌套引用  
 ## 代码区块
-  void main(){  
-    print('hello world!') 
-  } 
+    void main(){  
+      print('hello world!') 
+    } 
