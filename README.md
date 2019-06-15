@@ -53,7 +53,7 @@
 ## 数学  
 - 线性代数  
   - 课程与书籍学习  
-    - Linear Algebra -- 李宏毅  
+    - [Linear Algebra](https://www.youtube.com/watch?v=uUrt8xgdMbs&list=PLJV_el3uVTsNmr39gwbyV-0KjULUsN7fW) -- 李宏毅  
   ##
 - 概率论  
   - 张宇  
