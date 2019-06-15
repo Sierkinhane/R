@@ -40,7 +40,7 @@
   ##  
 - GAN  
   - 课程与书籍学习  
-    - GAN -- 李宏毅  
+    - [GAN](https://www.youtube.com/watch?v=DQNNMiAP5lw&list=PLJV_el3uVTsMq6JEFPW35BCiOQTsoqwNw) -- 李宏毅  
   - 笔记  
     - GAN知识整理
   ##  
