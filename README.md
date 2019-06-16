@@ -11,13 +11,13 @@
 ## 人工智能  
   ##
 -  **机器学习**  
-    - 课程与书籍学习  
-    - 斯坦福CS229 -- 吴恩达  
-    - 《统计学习方法》 -- 李航  
-    - 机器学习基石与技法 -- 林轩田  
-    - [Machine Learning -- 李宏毅](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)  
-  - 笔记  
-    - 机器学习知识整理
+   - 课程与书籍学习  
+     - 斯坦福CS229 -- 吴恩达  
+     - 《统计学习方法》 -- 李航  
+     - 机器学习基石与技法 -- 林轩田  
+     - [Machine Learning -- 李宏毅](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)  
+   - 笔记  
+     - 机器学习知识整理
   ##
 - **深度学习**  
   - 课程与书籍学习  
