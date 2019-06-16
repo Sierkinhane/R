@@ -64,8 +64,9 @@
   - 课程与书籍学习  
     - [Linear Algebra -- 李宏毅](https://www.youtube.com/watch?v=uUrt8xgdMbs&list=PLJV_el3uVTsNmr39gwbyV-0KjULUsN7fW)  
   ##
-- **概率论**  
-  - 张宇  
+- **概率与统计**  
+  - 课程与书籍学习
+    - [几率与统计 -- 叶丙成](https://www.youtube.com/watch?v=GwSEguqJj6U)  
   ##
 - **高等数学**  
   - 张宇  
