@@ -5,7 +5,7 @@
   4. [编程语言](#编程语言)
   5. [LaTeX](#LaTeX)
   6. [Markdown](#Markdown)
-  
+  7. [~~日程计划~~](https://github.com/Sierkinhane/AboutSierkinhane/blob/master/Schedule/Daily%20Works.md)
 
 ## 人工智能  
 -  **机器学习**  
