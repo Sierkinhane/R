@@ -55,7 +55,7 @@
   ##  
 - **自然语言处理**  
   - 课程与书籍学习  
-    -
+    - [CS224n](https://www.bilibili.com/video/av41393758?from=search&seid=5267357694303328164)
   - 笔记  
     -
 
