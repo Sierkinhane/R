@@ -9,8 +9,8 @@
   8. [~~长程计划~~](https://github.com/Sierkinhane/AboutSierkinhane/blob/master/Schedule/Plan.md)
 
 ## 人工智能  
+  ##
 -  **机器学习**  
-
   - 课程与书籍学习  
     - 斯坦福CS229 -- 吴恩达  
     - 《统计学习方法》 -- 李航  
