@@ -64,6 +64,7 @@
 - **线性代数**  
   - 课程与书籍学习  
     - [Linear Algebra -- 李宏毅](https://www.youtube.com/watch?v=uUrt8xgdMbs&list=PLJV_el3uVTsNmr39gwbyV-0KjULUsN7fW)  
+    - [线性代数 -- 国立清华大学](http://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=89&)
   ##
 - **概率与统计**  
   - 课程与书籍学习
