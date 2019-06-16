@@ -72,6 +72,9 @@
   ##
 - **高等数学**  
   - 张宇  
+  ##
+- **算法导论**
+  - [MIT6.006](https://www.bilibili.com/video/av11928034/?spm_id_from=333.788.videocard.2)
       
 ## CUDA编程
 ## 编程语言
