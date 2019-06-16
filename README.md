@@ -6,6 +6,7 @@
   5. [LaTeX](#LaTeX)
   6. [Markdown](#Markdown)
   7. [~~日程计划~~](https://github.com/Sierkinhane/AboutSierkinhane/blob/master/Schedule/Daily%20Works.md)
+  8. [~~长程计划~~](https://github.com/Sierkinhane/AboutSierkinhane/blob/master/Schedule/Plan.md)
 
 ## 人工智能  
 -  **机器学习**  
