@@ -62,6 +62,7 @@
     - 自然语言处理知识整理
 
 ## 数学  
+##
 - **线性代数**  
   - 课程与书籍学习  
     - [Linear Algebra -- 李宏毅](https://www.youtube.com/watch?v=uUrt8xgdMbs&list=PLJV_el3uVTsNmr39gwbyV-0KjULUsN7fW)  
@@ -78,8 +79,14 @@
   - [MIT6.006](https://www.bilibili.com/video/av11928034/?spm_id_from=333.788.videocard.2)
       
 ## CUDA编程
+##
 ## 编程语言
-  - [C plus plus -- Cherno](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+##
+  - C plus plus
+    - 课程与书籍学习
+      - [C plus plus -- Cherno](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 ## LaTeX
+##
 ## Markdown
+##
   - **[基本语法](https://github.com/Sierkinhane/AboutSierkinhane/blob/master/Markdown/Markdown.md)**
