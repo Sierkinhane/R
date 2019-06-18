@@ -80,10 +80,10 @@
       
 ## CUDA编程
 ##
-## 编程语言
   - 课程与书籍学习
     - [Programming Massively Parallel Precessors](http://digilib.stmik-banjarbaru.ac.id/data.bc/18.%20Programming/2013%20Programming%20Massively%20Parallel%20Processors%20A%20Hands-on%20Approach%202nd.pdf)
     - [Introduction to Parallel Programming](https://www.youtube.com/watch?v=F620ommtjqk)
+## 编程语言
 ##
   - C plus plus
     - 课程与书籍学习
