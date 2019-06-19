@@ -90,6 +90,7 @@
       - [C plus plus -- Cherno](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 ## LaTeX
 ##
+  - [语法笔记]()
 ## Markdown
 ##
   - **[基本语法](https://github.com/Sierkinhane/AboutSierkinhane/blob/master/Markdown/Markdown.md)**
