@@ -63,8 +63,12 @@
 
 ## 数学  
 ##
+- **微积分**
+  - 课程与书籍学习
+    - [Calculus -- Gilbert Strang](http://open.163.com/special/opencourse/weijifen.html)
 - **线性代数**  
   - 课程与书籍学习  
+    - [Introduction to Linear Algebra -- Gilbert Strang](http://open.163.com/special/opencourse/daishu.html)
     - [Linear Algebra -- 李宏毅](https://www.youtube.com/watch?v=uUrt8xgdMbs&list=PLJV_el3uVTsNmr39gwbyV-0KjULUsN7fW)  
     - [线性代数 -- 国立清华大学](http://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=89&)  
       [YouTube](https://www.youtube.com/watch?v=JweNac3_lU8&list=PLS0SUwlYe8cyRDu_tp_8hP5oF7qHvwyoE)
