@@ -7,7 +7,7 @@
   \usepackage{amssymb}
   \because
   \therefore
-  **3.在字母上面加符号**
+  **3.在字母上面加符号**  
   加^号 输入\hat  或 \widehat
   加横线 输入 \overline
   加波浪线 输入 \widetilde
