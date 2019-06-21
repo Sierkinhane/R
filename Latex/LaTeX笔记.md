@@ -3,10 +3,10 @@
    \usepackage{color}  
    {\color{red}文本}  
    \textcolor[rgb]{1,0,0}{}  
-  **2. 因为所以数学符号**
-  \usepackage{amssymb}
-  \because
-  \therefore
+  **2. 因为所以数学符号**  
+  \usepackage{amssymb}  
+  \because  
+  \therefore  
   **3.在字母上面加符号**  
   加^号 输入\hat  或 \widehat
   加横线 输入 \overline
