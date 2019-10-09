@@ -77,6 +77,7 @@
 - **概率与统计**  
   - 课程与书籍学习
     - [几率与统计 -- 叶丙成](https://www.youtube.com/watch?v=GwSEguqJj6U)  
+    - [18.05 Probability and statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
   ##
 - **高等数学**  
   - 张宇  
