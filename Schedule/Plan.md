@@ -1,6 +1,6 @@
 ## 近期计划（2019-6-15 -> 2019-7~）  
 - Linear Algebra  
-  - Hung-yi lee [Linear Algebra (2018,Fall)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_LA18.html)
+  - ~~Hung-yi lee [Linear Algebra (2018,Fall)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_LA18.html)~~
 - 概率与统计
   - 叶丙成 [几率与统计](https://www.youtube.com/watch?v=GwSEguqJj6U)
 - ~~论文~~
