@@ -15,3 +15,4 @@
 ##
 ##  确定研究方向：
   2D/3D pose estimation/face alignment, GAN, deep reinforecement learning
+  多领域研究多领域结合
