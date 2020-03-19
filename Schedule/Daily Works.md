@@ -22,3 +22,5 @@
   - E. Vision
 - 2020-3-19
   - M. C++ 侯捷 complex类实现
+  - A. 3d face aligment -- facial boundary code
+
