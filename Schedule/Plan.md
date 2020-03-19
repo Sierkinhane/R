@@ -13,4 +13,4 @@
 - C/C++复习与学习
 - 统计学习方法
 ##
-##
+##  确定研究方向：2D/3D pose estimation/face alignment, GAN, deep reinforecement learning
