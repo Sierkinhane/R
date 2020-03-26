@@ -26,5 +26,8 @@
   - A. 3d face aligment -- facial boundary code 
   - E. + train code + evaluation code
   ```
-- 2020-3-20
+- 2020-3-26
+  ```
+  论文阅读：BN LN IN GN AdaIn
+  ```
 
