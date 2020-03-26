@@ -28,6 +28,6 @@
   ```
 - 2020-3-26
   ```
-  论文阅读：BN LN IN GN AdaIn
+  阅读：BN LN IN GN AdaIn
   ```
 
