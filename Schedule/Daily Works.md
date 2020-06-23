@@ -31,3 +31,9 @@
   阅读：BN LN IN GN AdaIn
   ```
 
+- 2020-6-24
+  ```
+  m. 数字图像处理 -- fourier
+  a. paper related
+  e. 家教
+  ```
