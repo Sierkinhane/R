@@ -33,7 +33,7 @@
   - Weakly supervised learning <image-level>
     - Detection
     - Segmentation
-      - [ ][Find it if You Can: End-to-End Adversarial Erasing for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2011.04626)
+      - [ ] [Find it if You Can: End-to-End Adversarial Erasing for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2011.04626)
     - Instance segmentation
       - [ ][Leveraging Instance-, Image- and Dataset-Level Information for Weakly Supervised Instance Segmentation](https://ieeexplore.ieee.org/abstract/document/9193980)
   - Semi-supervised learning
