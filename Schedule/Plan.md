@@ -31,11 +31,12 @@
     
 ## Paper list
   - Weakly supervised learning <image-level>
-    - detection
-    - segmentation
-    - instance segmentation
+    - Detection
+    - Segmentation
+    - Instance segmentation
+      - [Leveraging Instance-, Image- and Dataset-Level Information for Weakly Supervised Instance Segmentation](https://ieeexplore.ieee.org/abstract/document/9193980)
   - Self-supervised learning
   - Unsupervised learning
-    - contrastive learning
+    - Contrastive learning
   - Transfer learning
-    - domain adaptation
+    - Domain adaptation
