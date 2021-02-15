@@ -28,3 +28,14 @@
   - 阅读弱监督学习的论文
     - WOSL
     - WOSD
+    
+## Paper list
+  - Weakly supervised learning <image-level>
+    - detection
+    - segmentation
+    - instance segmentation
+  - Self-supervised learning
+  - Unsupervised learning
+    - contrastive learning
+  - Transfer learning
+    - domain adaptation
