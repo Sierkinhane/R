@@ -46,5 +46,8 @@
       - [ ] [Hung-yi Lee](https://drive.google.com/file/d/15wlfUtTmnb4cEAHZtNJ9_jJE26nSNhAX/view)
       - [ ] [Deep Domain Confusion: Maximizing for Domain Invariance](https://arxiv.org/pdf/1412.3474.pdf)
       - [ ] [Learning Transferable Features with Deep Adaptation Networks](https://arxiv.org/pdf/1502.02791.pdf)
+      - [ ] [Deep CORAL: Correlation Alignment for Deep Domain Adaptation](https://arxiv.org/pdf/1607.01719.pdf)
+      - [ ] [Simultaneous Deep Transfer Across Domains and Tasks](https://arxiv.org/abs/1510.02192)
+      - [ ] [Domain-Adversarial Training of Neural Networks](https://arxiv.org/abs/1505.07818)
   - Graph convolutional neural network
   - Transformer
