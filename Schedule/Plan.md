@@ -44,5 +44,7 @@
   - Transfer learning 
     - Domain adaptation
       - [ ] [Hung-yi Lee](https://drive.google.com/file/d/15wlfUtTmnb4cEAHZtNJ9_jJE26nSNhAX/view)
+      - [ ] [Deep Domain Confusion: Maximizing for Domain Invariance](https://arxiv.org/pdf/1412.3474.pdf)
+      - [ ] [Learning Transferable Features with Deep Adaptation Networks](https://arxiv.org/pdf/1502.02791.pdf)
   - Graph convolutional neural network
   - Transformer
