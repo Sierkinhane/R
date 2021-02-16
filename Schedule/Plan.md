@@ -53,3 +53,6 @@
       - [ ] [Domain Separation Networks](https://arxiv.org/abs/1608.06019)
   - Graph convolutional neural network
   - Transformer
+  - Others
+    - Person Re-ID
+      - [ ] [Intra-Camera Supervised Person Re-Identification](https://arxiv.org/abs/2002.05046)
