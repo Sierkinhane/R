@@ -43,5 +43,6 @@
       - [ ] [Introduction blog](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
   - Transfer learning 
     - Domain adaptation
+      - [ ] [Hung-yi Lee](https://drive.google.com/file/d/15wlfUtTmnb4cEAHZtNJ9_jJE26nSNhAX/view)
   - Graph convolutional neural network
   - Transformer
