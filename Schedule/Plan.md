@@ -49,5 +49,7 @@
       - [ ] [Deep CORAL: Correlation Alignment for Deep Domain Adaptation](https://arxiv.org/pdf/1607.01719.pdf)
       - [ ] [Simultaneous Deep Transfer Across Domains and Tasks](https://arxiv.org/abs/1510.02192)
       - [ ] [Domain-Adversarial Training of Neural Networks](https://arxiv.org/abs/1505.07818)
+      - [ ] [Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks](https://arxiv.org/abs/1612.05424)
+      - [ ] [Domain Separation Networks](https://arxiv.org/abs/1608.06019)
   - Graph convolutional neural network
   - Transformer
