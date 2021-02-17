@@ -2,11 +2,11 @@
 1. [Weakly supervised learning](#Weakly-supervised-learning)
 2. [Semi-supervised learning](#Semi-supervised-learning)
 3. [Self-supervised learning](#Self-supervised-learning)
-4. [Unsupervised learning](#SUnsupervised-learning)
-5. [Semi-supervised learning](#Semi-supervised-learning)
-6. [Semi-supervised learning](#Semi-supervised-learning)
-7. [Semi-supervised learning](#Semi-supervised-learning)
-8. [Semi-supervised learning](#Semi-supervised-learning)
+4. [Unsupervised learning](#Unsupervised-learning)
+5. [Transfer learning ](#Transfer-learning )
+6. [Graph convolutional neural network](#Graph-convolutional-neural-network)
+7. [Transformer](#Transformer)
+8. [Others](#Others)
 ### Weakly supervised learning
   - Weakly supervised learning <image-level>
     - Detection
@@ -38,9 +38,13 @@
       - [ ] [Domain-Adversarial Training of Neural Networks](https://arxiv.org/abs/1505.07818)
       - [ ] [Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks](https://arxiv.org/abs/1612.05424)
       - [ ] [Domain Separation Networks](https://arxiv.org/abs/1608.06019)
+
+### Graph convolutional neural network
   - Graph convolutional neural network
     - Pose estimation
     - Image recognition
+
+### Transformer
   - Transformer
     - [ ] [Attention Is All You Need](https://arxiv.org/abs/1706.03762v5)
     - Detection
@@ -50,6 +54,8 @@
       - [ ] [TransGAN: Two Transformers Can Make One Strong GAN](https://arxiv.org/abs/2102.07074) ([code](https://github.com/VITA-Group/TransGAN))
     - Person Re-ID
       - [ ] [TransReID: Transformer-based Object Re-Identification](https://arxiv.org/pdf/2102.04378.pdf)
+
+### Others
   - Others
     - Person Re-ID
       - [X] [Intra-Camera Supervised Person Re-Identification](https://arxiv.org/abs/2002.05046) (IJCV)
