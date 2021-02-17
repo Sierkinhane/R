@@ -1,5 +1,6 @@
 ##
-1. [Weakly supervised learning](#Weakly)
+1. [Weakly supervised learning](#Weakly-supervised-learning)
+2. [Semi-supervised learning](#Semi-supervised-learning)
 ## Weakly supervised learning
   - Weakly supervised learning <image-level>
     - Detection
@@ -8,8 +9,14 @@
       - [ ] [Find it if You Can: End-to-End Adversarial Erasing for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2011.04626)
     - Instance segmentation
       - [ ] [Leveraging Instance-, Image- and Dataset-Level Information for Weakly Supervised Instance Segmentation](https://ieeexplore.ieee.org/abstract/document/9193980) (TPAMI)
+
+## Semi-supervised learning
   - Semi-supervised learning
+
+## Self-supervised learning
   - Self-supervised learning
+
+## Unsupervised learning
   - Unsupervised learning
     - Contrastive learning
       - [ ] [Introduction blog](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
