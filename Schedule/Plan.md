@@ -53,6 +53,8 @@
       - [ ] [Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks](https://arxiv.org/abs/1612.05424)
       - [ ] [Domain Separation Networks](https://arxiv.org/abs/1608.06019)
   - Graph convolutional neural network
+    - Pose estimation
+    - Image recognition
   - Transformer
     - [ ] [Attention Is All You Need](https://arxiv.org/abs/1706.03762v5)
     - Detection
@@ -63,3 +65,5 @@
   - Others
     - Person Re-ID
       - [ ] [Intra-Camera Supervised Person Re-Identification](https://arxiv.org/abs/2002.05046)
+    - Face recognition
+    - Fine-grained recognition
