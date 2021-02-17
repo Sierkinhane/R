@@ -65,5 +65,6 @@
   - Others
     - Person Re-ID
       - [X] [Intra-Camera Supervised Person Re-Identification](https://arxiv.org/abs/2002.05046) (IJCV)
+      - [ ] [TransReID: Transformer-based Object Re-Identification](https://arxiv.org/pdf/2102.04378.pdf)
     - Face recognition
     - Fine-grained recognition
