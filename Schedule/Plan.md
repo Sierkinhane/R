@@ -36,7 +36,7 @@
       - [X] [Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2007.01947.pdf)
       - [ ] [Find it if You Can: End-to-End Adversarial Erasing for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2011.04626)
     - Instance segmentation
-      - [ ] [Leveraging Instance-, Image- and Dataset-Level Information for Weakly Supervised Instance Segmentation](https://ieeexplore.ieee.org/abstract/document/9193980)
+      - [ ] [Leveraging Instance-, Image- and Dataset-Level Information for Weakly Supervised Instance Segmentation](https://ieeexplore.ieee.org/abstract/document/9193980) (TPAMI)
   - Semi-supervised learning
   - Self-supervised learning
   - Unsupervised learning
@@ -64,6 +64,6 @@
       - [ ] [TransGAN: Two Transformers Can Make One Strong GAN](https://arxiv.org/abs/2102.07074) ([code](https://github.com/VITA-Group/TransGAN))
   - Others
     - Person Re-ID
-      - [X] [Intra-Camera Supervised Person Re-Identification](https://arxiv.org/abs/2002.05046)
+      - [X] [Intra-Camera Supervised Person Re-Identification](https://arxiv.org/abs/2002.05046) (IJCV)
     - Face recognition
     - Fine-grained recognition
