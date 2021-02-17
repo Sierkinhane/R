@@ -53,6 +53,12 @@
       - [ ] [Domain Separation Networks](https://arxiv.org/abs/1608.06019)
   - Graph convolutional neural network
   - Transformer
+    - [ ] [Attention Is All You Need](https://arxiv.org/abs/1706.03762v5)
+    - Detection
+      - [ ] [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872) [code](https://github.com/facebookresearch/detr)
+      - [ ] [Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://arxiv.org/abs/2010.04159) [code](https://github.com/fundamentalvision/Deformable-DETR)
+    - GAN
+      - [ ] [TransGAN: Two Transformers Can Make One Strong GAN](https://arxiv.org/abs/2102.07074) [code](https://github.com/VITA-Group/TransGAN)
   - Others
     - Person Re-ID
       - [ ] [Intra-Camera Supervised Person Re-Identification](https://arxiv.org/abs/2002.05046)
