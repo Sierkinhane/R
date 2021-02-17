@@ -14,7 +14,7 @@
 - 统计学习方法
 ##
 ##  确定研究方向：(2020年3月19日)
-  - 2D/3D pose estimation/face alignment, GAN, deep reinforecement learning
+  - ~~2D/3D pose estimation/face alignment, GAN, deep reinforecement learning~~
   - 多领域涉猎多领域结合于单一领域
 ## 
 ##  2020-3-19
