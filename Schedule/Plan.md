@@ -64,6 +64,6 @@
       - [ ] [TransGAN: Two Transformers Can Make One Strong GAN](https://arxiv.org/abs/2102.07074) ([code](https://github.com/VITA-Group/TransGAN))
   - Others
     - Person Re-ID
-      - [ ] [Intra-Camera Supervised Person Re-Identification](https://arxiv.org/abs/2002.05046)
+      - [X] [Intra-Camera Supervised Person Re-Identification](https://arxiv.org/abs/2002.05046)
     - Face recognition
     - Fine-grained recognition
