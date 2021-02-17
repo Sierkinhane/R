@@ -27,6 +27,10 @@
   - Unsupervised learning
     - Contrastive learning
       - [ ] [Introduction blog](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
+      - [ ] [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670)
+      - [ ] [Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849)
+      - [ ] [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
+      - [ ] [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
       - [ ] [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722v3)
 
 ### Transfer learning 
