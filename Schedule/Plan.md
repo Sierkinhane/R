@@ -9,6 +9,7 @@
 8. [Others](#Others)
 ### Weakly supervised learning
   - Weakly supervised learning <image-level>
+    - Localization
     - Detection
     - Segmentation
       - [X] [Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2007.01947.pdf)
