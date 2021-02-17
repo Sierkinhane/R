@@ -1,6 +1,7 @@
 ##
-1. [Weakly supervised learning](# Weakly supervised learning)
+1. [Weakly supervised learning](#Weakly supervised learning)
 2. [人工智能](#人工智能)
+3. [Weakly supervised learning](#Weakly supervised learning)
 ## Weakly supervised learning
   - Weakly supervised learning <image-level>
     - Detection
