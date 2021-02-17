@@ -1,7 +1,13 @@
 ##
 1. [Weakly supervised learning](#Weakly-supervised-learning)
 2. [Semi-supervised learning](#Semi-supervised-learning)
-## Weakly supervised learning
+3. [Self-supervised learning](#Self-supervised-learning)
+4. [Unsupervised learning](#SUnsupervised-learning)
+5. [Semi-supervised learning](#Semi-supervised-learning)
+6. [Semi-supervised learning](#Semi-supervised-learning)
+7. [Semi-supervised learning](#Semi-supervised-learning)
+8. [Semi-supervised learning](#Semi-supervised-learning)
+### Weakly supervised learning
   - Weakly supervised learning <image-level>
     - Detection
     - Segmentation
@@ -10,16 +16,18 @@
     - Instance segmentation
       - [ ] [Leveraging Instance-, Image- and Dataset-Level Information for Weakly Supervised Instance Segmentation](https://ieeexplore.ieee.org/abstract/document/9193980) (TPAMI)
 
-## Semi-supervised learning
+### Semi-supervised learning
   - Semi-supervised learning
 
-## Self-supervised learning
+### Self-supervised learning
   - Self-supervised learning
 
-## Unsupervised learning
+### Unsupervised learning
   - Unsupervised learning
     - Contrastive learning
       - [ ] [Introduction blog](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
+
+### Transfer learning 
   - Transfer learning 
     - Domain adaptation
       - [ ] [Hung-yi Lee](https://drive.google.com/file/d/15wlfUtTmnb4cEAHZtNJ9_jJE26nSNhAX/view)
