@@ -26,6 +26,7 @@
   - Unsupervised learning
     - Contrastive learning
       - [ ] [Introduction blog](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
+      - [ ] [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722v3)
 
 ### Transfer learning 
   - Transfer learning 
