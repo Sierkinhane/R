@@ -70,6 +70,8 @@
       - [X] [Intra-Camera Supervised Person Re-Identification](https://arxiv.org/abs/2002.05046) (IJCV)
     - Face recognition
     - Fine-grained recognition
+    - Segmantic segmentation
+      - [ ] [Exploring Cross-Image Pixel Contrast for Semantic Segmentation](https://arxiv.org/abs/2101.11939)
 
 
 
