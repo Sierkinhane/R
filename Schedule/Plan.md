@@ -79,7 +79,7 @@
     - Face recognition
     - Fine-grained recognition
     - Segmantic segmentation
-      - [ ] [Exploring Cross-Image Pixel Contrast for Semantic Segmentation](https://arxiv.org/abs/2101.11939)
+      - [X] [Exploring Cross-Image Pixel Contrast for Semantic Segmentation](https://arxiv.org/abs/2101.11939)
 
 
 
