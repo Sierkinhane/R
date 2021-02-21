@@ -31,6 +31,7 @@
   - Unsupervised learning
     - Contrastive learning
       - [ ] [Introduction blog](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
+      - [ ] [Noise-contrastive estimation: A new estimation principle forunnormalized statistical models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf)
       - [ ] [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670)
       - [ ] [Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849)
       - [ ] [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
