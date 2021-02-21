@@ -22,6 +22,7 @@
     - [ ] [Pseudo-Labeling and Confirmation Bias in Deep Semi-Supervised Learning](https://arxiv.org/abs/1908.02983)
     - [ ] [Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2003.03773)
     - [ ] [Pseudo-Label : The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks](https://www.researchgate.net/publication/280581078_Pseudo-Label_The_Simple_and_Efficient_Semi-Supervised_Learning_Method_for_Deep_Neural_Networks)
+    - [ ] [In Defense of Pseudo-Labeling: An Uncertainty-Aware Pseudo-label Selection Framework for Semi-Supervised Learning](https://arxiv.org/abs/2101.06329v1)
 
 ### Self-supervised learning
   - Self-supervised learning
