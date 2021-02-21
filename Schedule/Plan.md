@@ -36,10 +36,13 @@
       - [ ] [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
       - [ ] [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) (PMLR 2020)
       - [ ] [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722v3)
+      - [ ] [Unsupervised Feature Learning via Non-Parametric Instance Discrimination]
       - Re-ID
         - [ ] [A Bottom-up Clustering Approach to Unsupervised Person Re-identification](https://vana77.github.io/vana77.github.io/images/AAAI19.pdf) (AAAI 2019)
-        - [ ] [Unsupervised Feature Learning via Non-Parametric Instance Discrimination](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Unsupervised_Feature_Learning_CVPR_2018_paper.pdf) (CVPR 2018)
+       (https://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Unsupervised_Feature_Learning_CVPR_2018_paper.pdf) (CVPR 2018)
         - [ ] [Unsupervised Person Re-identification: Clustering and Fine-tuning](https://arxiv.org/pdf/1705.10444.pdf)
+        - [ ] [Prototypical Contrastive Learning of Unsupervised Representations](https://arxiv.org/pdf/2101.11939.pdf)
+        - [ ] [Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID](https://proceedings.neurips.cc/paper/2020/file/821fa74b50ba3f7cba1e6c53e8fa6845-Paper.pdf) (NeurIPS 2020)
 
 ### Transfer learning 
   - Transfer learning 
