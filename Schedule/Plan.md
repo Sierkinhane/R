@@ -38,6 +38,7 @@
       - [ ] [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) (PMLR 2020)
       - [ ] [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722v3)
       - [ ] [Unsupervised Feature Learning via Non-Parametric Instance Discrimination](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Unsupervised_Feature_Learning_CVPR_2018_paper.pdf) (CVPR 2018)
+      - [ ] [Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910)
       - Re-ID
         - [ ] [A Bottom-up Clustering Approach to Unsupervised Person Re-identification](https://vana77.github.io/vana77.github.io/images/AAAI19.pdf) (AAAI 2019)
         - [ ] [Unsupervised Person Re-identification: Clustering and Fine-tuning](https://arxiv.org/pdf/1705.10444.pdf)
