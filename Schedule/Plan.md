@@ -65,6 +65,7 @@
 ### Transformer
   - Transformer
     - [ ] [Attention Is All You Need](https://arxiv.org/abs/1706.03762v5)
+    - [ ] [DeLighT: Deep and Light-weight Transformer](https://arxiv.org/abs/2008.00623) (ICLR 2021)
     - Detection
       - [ ] [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872) ([code](https://github.com/facebookresearch/detr))
       - [ ] [Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://arxiv.org/abs/2010.04159) ([code](https://github.com/fundamentalvision/Deformable-DETR))
