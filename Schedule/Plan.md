@@ -81,6 +81,8 @@
     - Fine-grained recognition
     - Segmantic segmentation
       - [X] [Exploring Cross-Image Pixel Contrast for Semantic Segmentation](https://arxiv.org/abs/2101.11939)
+    - Convolutions
+      - [ ] [Fully Learnable Group Convolution for Acceleration of Deep Neural Networks](https://arxiv.org/pdf/1904.00346.pdf)
 
 
 
