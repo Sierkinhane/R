@@ -92,6 +92,7 @@
       - [ ] [Fully Learnable Group Convolution for Acceleration of Deep Neural Networks](https://arxiv.org/pdf/1904.00346.pdf)
     - Image Recognition 
       - [ ] [Knowledge-Guided Multi-Label Few-Shot Learning for General Image Recognition](https://arxiv.org/pdf/2009.09450.pdf) (TPAMI)
+      - [ ] [Fixing Localization Errors to Improve Image Classification](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700273.pdf) (ECCV 2020)
 
 
 
