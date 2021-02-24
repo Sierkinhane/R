@@ -90,7 +90,7 @@
     - Convolutions
       - [ ] [Fully Learnable Group Convolution for Acceleration of Deep Neural Networks](https://arxiv.org/pdf/1904.00346.pdf)
     - Image Recognition 
-      - [ ] [Knowledge-Guided Multi-Label Few-Shot Learning for General Image Recognition](https://arxiv.org/pdf/2009.09450.pdf) (TPMAI)
+      - [ ] [Knowledge-Guided Multi-Label Few-Shot Learning for General Image Recognition](https://arxiv.org/pdf/2009.09450.pdf) (TPAMI)
 
 
 
