@@ -78,12 +78,15 @@
   - Others
     - Person Re-ID
       - [X] [Intra-Camera Supervised Person Re-Identification](https://arxiv.org/abs/2002.05046) (IJCV)
+      - [X] [A Graph-Based Approach for Making Consensus-Based Decisions in Image Search and Person Re-Identification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8852741) (TPAMI)
     - Face recognition
     - Fine-grained recognition
     - Segmantic segmentation
       - [X] [Exploring Cross-Image Pixel Contrast for Semantic Segmentation](https://arxiv.org/abs/2101.11939)
     - Convolutions
       - [ ] [Fully Learnable Group Convolution for Acceleration of Deep Neural Networks](https://arxiv.org/pdf/1904.00346.pdf)
+    - Image Recognition 
+      - [ ] [Knowledge-Guided Multi-Label Few-Shot Learning for General Image Recognition](https://arxiv.org/pdf/2009.09450.pdf) (TPMAI)
 
 
 
