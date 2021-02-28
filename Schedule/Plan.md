@@ -93,6 +93,8 @@
     - Image Recognition 
       - [ ] [Knowledge-Guided Multi-Label Few-Shot Learning for General Image Recognition](https://arxiv.org/pdf/2009.09450.pdf) (TPAMI)
       - [X] [Fixing Localization Errors to Improve Image Classification](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700273.pdf) (ECCV 2020)
+    - Geoffrey Hinton
+      - [ ] [How to represent part-whole hierarchies in a neural network](https://arxiv.org/pdf/2102.12627.pdf)
 
 
 
