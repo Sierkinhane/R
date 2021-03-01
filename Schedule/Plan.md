@@ -82,7 +82,7 @@
   - Others
     - Person Re-ID
       - [X] [Intra-Camera Supervised Person Re-Identification](https://arxiv.org/abs/2002.05046) (IJCV)
-      - [X] [A Graph-Based Approach for Making Consensus-Based Decisions in Image Search and Person Re-Identification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8852741) (TPAMI)
+      - [ ] [A Graph-Based Approach for Making Consensus-Based Decisions in Image Search and Person Re-Identification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8852741) (TPAMI)
     - Face recognition
     - Fine-grained recognition
     - Segmantic segmentation
