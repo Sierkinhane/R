@@ -95,6 +95,8 @@
       - [X] [Fixing Localization Errors to Improve Image Classification](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700273.pdf) (ECCV 2020)
     - Geoffrey Hinton
       - [ ] [How to represent part-whole hierarchies in a neural network](https://arxiv.org/pdf/2102.12627.pdf)
+    - Neural architecture search
+      - [ ] [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/pdf/1707.07012.pdf)
 
 
 
