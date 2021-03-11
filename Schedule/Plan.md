@@ -41,12 +41,13 @@
       - [ ] [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/pdf/1905.09272.pdf) (ICML 2020)
       - [ ] [Supervised Contrastive Learning](https://arxiv.org/abs/2004.11362) (NeurIPS 2020)
       - [ ] [Can Semantic Labels Assist Self-Supervised Visual Representation Learning?](https://arxiv.org/pdf/2011.08621.pdf)
-      - [ ] (SimCLR)[A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) (PMLR 2020)
+      - [ ] (SimCLR) [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) (PMLR 2020)
       - [X] (MoCo) [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722v3)
       - [ ] [MoCov2] [Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/pdf/2003.04297.pdf)
       - [ ] (SimCLRv2) [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://proceedings.neurips.cc/paper/2020/file/fcbc95ccdd551da181207c0c1400c655-Paper.pdf) (NeurIPS 2020)
       - [ ] (SwAV) [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/pdf/2006.09882.pdf)
-      - [ ] 
+      - [ ] (BYOL) [Bootstrap Your Own Latent A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf)
+      - [ ] (SimSiam) [Exploring Simple Siamese Representation Learning](https://arxiv.org/pdf/2011.10566.pdf)
       - Re-ID
         - [ ] [A Bottom-up Clustering Approach to Unsupervised Person Re-identification](https://vana77.github.io/vana77.github.io/images/AAAI19.pdf) (AAAI 2019)
         - [ ] [Unsupervised Person Re-identification: Clustering and Fine-tuning](https://arxiv.org/pdf/1705.10444.pdf)
