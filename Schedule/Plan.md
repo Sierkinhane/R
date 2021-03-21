@@ -15,6 +15,7 @@
       - [X] [Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2007.01947.pdf) (ECCV 2020)
       - [X] [Find it if You Can: End-to-End Adversarial Erasing for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2011.04626)
     - Instance segmentation
+      - [X] [Weakly Supervised Instance Segmentation using Class Peak Response](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Weakly_Supervised_Instance_CVPR_2018_paper.pdf) (CVPR 2018)
       - [X] [Leveraging Instance-, Image- and Dataset-Level Information for Weakly Supervised Instance Segmentation](https://ieeexplore.ieee.org/abstract/document/9193980) (TPAMI 2020)
       - [ ] [Towards Partial Supervision for Generic Object Counting in Natural Scenes](https://arxiv.org/pdf/1912.06448.pdf) (TPAMI 2020)
 
