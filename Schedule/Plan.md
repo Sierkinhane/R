@@ -107,6 +107,8 @@
       - [ ] [How to represent part-whole hierarchies in a neural network](https://arxiv.org/pdf/2102.12627.pdf)
     - Neural architecture search
       - [ ] [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/pdf/1707.07012.pdf)
+    - DNN
+      - [ ] [Wider or Deeper: Revisiting the ResNet Model for Visual Recognition](https://arxiv.org/pdf/1611.10080.pdf)
 
 
 
