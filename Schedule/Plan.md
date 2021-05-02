@@ -11,6 +11,7 @@
   - Weakly supervised learning <image-level>
     - Localization
     - Detection
+      - [ ] [Comprehensive Attention Self-Distillation for Weakly-Supervised Object Detection](https://arxiv.org/pdf/2010.12023.pdf) (NeurIPS 2020)
     - Segmentation
       - [X] [Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2007.01947.pdf) (ECCV 2020)
       - [X] [Find it if You Can: End-to-End Adversarial Erasing for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2011.04626)
