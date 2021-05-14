@@ -91,6 +91,7 @@
 
 ### Image-Recognition
   - Multi-label Classification
+    - [ ] [Cross-Modality Attention with Semantic Graph Embedding for Multi-Label Classification](https://arxiv.org/abs/1912.07872) (AAAI 2020)
   - Long-tailed Classification
 ### Others
   - Others
