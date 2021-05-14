@@ -97,7 +97,7 @@
     - [X] [BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition](https://arxiv.org/abs/1912.02413) (CVPR 2020)
     - [ ] [Dynamic Curriculum Learning for Imbalanced Data Classification](https://arxiv.org/abs/1901.06783) (ICCV 2019)
     - [ ] [Class-Balanced Loss Based on Effective Number of Samples](https://arxiv.org/abs/1901.05555) (CVPR 2019)
-    - [ ] [Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss](https://arxiv.org/abs/1906.07413)
+    - [ ] [Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss](https://arxiv.org/abs/1906.07413) (NeurIPS 2019)
     - [ ] [Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective](https://arxiv.org/abs/2003.10780) (CVPR 2020)
     - [ ] [Remix: Rebalanced Mixup](https://arxiv.org/abs/2007.03943) (Arxiv Preprint 2020)
     - [ ] [Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective](https://arxiv.org/abs/2002.10826) (CVPR 2020)
