@@ -6,7 +6,7 @@
 5. [Transfer learning ](#Transfer-learning )
 6. [Graph convolutional neural network](#Graph-convolutional-neural-network)
 7. [Transformer](#Transformer)
-8. [Image Recognition](#Image Recognition)
+8. [Image Recognition](#Image-Recognition)
 9. [Others](#Others)
 ### Weakly supervised learning
   - Weakly supervised learning <image-level>
@@ -89,7 +89,7 @@
     - Person Re-ID
       - [ ] [TransReID: Transformer-based Object Re-Identification](https://arxiv.org/pdf/2102.04378.pdf)
 
-### Image Recognition
+### Image-Recognition
   - Multi-label Classification
   - Long-tailed Classification
 ### Others
