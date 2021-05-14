@@ -93,6 +93,17 @@
   - Multi-label Classification
     - [ ] [Cross-Modality Attention with Semantic Graph Embedding for Multi-Label Classification](https://arxiv.org/abs/1912.07872) (AAAI 2020)
   - Long-tailed Classification
+    - [ ] [Decoupling Representation and Classifier for Long-Tailed Recognition](https://arxiv.org/pdf/1910.09217.pdf) (ICLR 2020)
+    - [ ] [BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition](https://arxiv.org/abs/1912.02413) (CVPR 2020)
+    - [ ] [Dynamic Curriculum Learning for Imbalanced Data Classification](https://arxiv.org/abs/1901.06783) (ICCV 2019)
+    - [ ] [Class-Balanced Loss Based on Effective Number of Samples](https://arxiv.org/abs/1901.05555) (CVPR 2019)
+    - [ ] [Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss](https://arxiv.org/abs/1906.07413)
+    - [ ] [Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective](https://arxiv.org/abs/2003.10780) (CVPR 2020)
+    - [ ] [Remix: Rebalanced Mixup](https://arxiv.org/abs/2007.03943) (Arxiv Preprint 2020)
+    - [ ] [Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective](https://arxiv.org/abs/2002.10826) (CVPR 2020)
+    - [ ] [Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-tailed Classification](https://arxiv.org/abs/2001.01536) (ECCV 2020)
+    - [ ] [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/abs/1904.05160) (CVPR 2019)
+    - [ ] [Long-tailed Recognition by Routing Diverse Distribution-Aware Experts](https://arxiv.org/abs/2010.01809) (ICLR 2021)
 ### Others
   - Others
     - Person Re-ID
