@@ -94,7 +94,7 @@
     - [ ] [Cross-Modality Attention with Semantic Graph Embedding for Multi-Label Classification](https://arxiv.org/abs/1912.07872) (AAAI 2020)
   - Long-tailed Classification
     - [ ] [Decoupling Representation and Classifier for Long-Tailed Recognition](https://arxiv.org/pdf/1910.09217.pdf) (ICLR 2020)
-    - [ ] [BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition](https://arxiv.org/abs/1912.02413) (CVPR 2020)
+    - [X] [BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition](https://arxiv.org/abs/1912.02413) (CVPR 2020)
     - [ ] [Dynamic Curriculum Learning for Imbalanced Data Classification](https://arxiv.org/abs/1901.06783) (ICCV 2019)
     - [ ] [Class-Balanced Loss Based on Effective Number of Samples](https://arxiv.org/abs/1901.05555) (CVPR 2019)
     - [ ] [Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss](https://arxiv.org/abs/1906.07413)
