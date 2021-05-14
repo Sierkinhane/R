@@ -6,7 +6,8 @@
 5. [Transfer learning ](#Transfer-learning )
 6. [Graph convolutional neural network](#Graph-convolutional-neural-network)
 7. [Transformer](#Transformer)
-8. [Others](#Others)
+8. [Long-Tailed Classification](#Long-Tailed Classification)
+9. [Others](#Others)
 ### Weakly supervised learning
   - Weakly supervised learning <image-level>
     - Localization
