@@ -127,6 +127,8 @@
       - [ ] [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/pdf/1707.07012.pdf)
     - DNN
       - [ ] [Wider or Deeper: Revisiting the ResNet Model for Visual Recognition](https://arxiv.org/pdf/1611.10080.pdf)
+    - Image Retrival
+      - [ ] [Smooth-AP: Smoothing the Path Towards Large-Scale Image Retrieval](https://arxiv.org/abs/2007.12163) (ECCV 2020)
 
 
 
