@@ -106,6 +106,7 @@
     - [ ] [Long-tailed Recognition by Routing Diverse Distribution-Aware Experts](https://arxiv.org/abs/2010.01809) (ICLR 2021)
 ### Others
   - Others
+  - [ ] [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://arxiv.org/abs/1811.12231)
     - Person Re-ID
       - [X] [Intra-Camera Supervised Person Re-Identification](https://arxiv.org/abs/2002.05046) (IJCV)
       - [ ] [A Graph-Based Approach for Making Consensus-Based Decisions in Image Search and Person Re-Identification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8852741) (TPAMI)
