@@ -115,6 +115,8 @@
     - Segmantic segmentation
       - [X] [Exploring Cross-Image Pixel Contrast for Semantic Segmentation](https://arxiv.org/abs/2101.11939)
       - [ ] [Region Mutual Information Loss for Semantic Segmentation](https://arxiv.org/pdf/1910.12037.pdf) (NeurIPS 2019)
+      - [ ] [Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers](https://arxiv.org/pdf/2103.12340.pdf) (CVPR 2021)
+      - [ ] [Commonality-Parsing Network across Shape and Appearance for Partially Supervised Instance Segmentation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530375.pdf) (ECCV 2020)
     - Convolutions
       - [ ] [Fully Learnable Group Convolution for Acceleration of Deep Neural Networks](https://arxiv.org/pdf/1904.00346.pdf)
     - Image Recognition 
