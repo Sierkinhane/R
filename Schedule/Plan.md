@@ -86,6 +86,7 @@
       - [ ] [TransGAN: Two Transformers Can Make One Strong GAN](https://arxiv.org/abs/2102.07074) ([code](https://github.com/VITA-Group/TransGAN))
       - [ ] [First Order Motion Model for Image Animation](https://papers.nips.cc/paper/2019/file/31c0b36aef265d9221af80872ceb62f9-Paper.pdf) (NeurIPS 2019)
       - [ ] [Unsupervised Image Transformation Learning via Generative Adversarial Networks](https://arxiv.org/abs/2103.07751)
+      - [ ] [Unsupervised Discovery of Interpretable Directions in the GAN Latent Space](https://arxiv.org/pdf/2002.03754.pdf)
     - Person Re-ID
       - [ ] [TransReID: Transformer-based Object Re-Identification](https://arxiv.org/pdf/2102.04378.pdf)
 
