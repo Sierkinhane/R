@@ -93,7 +93,7 @@
 ### Image-Recognition
   - Multi-label Classification
     - [X] [Cross-Modality Attention with Semantic Graph Embedding for Multi-Label Classification](https://arxiv.org/abs/1912.07872) (AAAI 2020)
-    - [X] [Multi-Label Image Recognition with Graph Convolutional Networks](https://arxiv.org/pdf/1904.03582.pdf) (CVPR2019)
+    - [ ] [Multi-Label Image Recognition with Graph Convolutional Networks](https://arxiv.org/pdf/1904.03582.pdf) (CVPR2019)
   - Long-tailed Classification
     - [X] [Decoupling Representation and Classifier for Long-Tailed Recognition](https://arxiv.org/pdf/1910.09217.pdf) (ICLR 2020)
     - [X] [BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition](https://arxiv.org/abs/1912.02413) (CVPR 2020)
