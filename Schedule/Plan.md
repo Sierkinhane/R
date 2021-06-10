@@ -62,6 +62,8 @@
         - [ ] [Contrastive Clustering](https://arxiv.org/pdf/2009.09687.pdf) (AAAI 2020)
         - [ ] [Improving Unsupervised Image Clustering With Robust Learning](https://arxiv.org/pdf/2012.11150v2.pdf) (CVPR 2021)
         - [ ] [SPICE: Semantic Pseudo-labeling for Image Clustering](https://arxiv.org/pdf/2103.09382v1.pdf) (Arxiv preprint)
+    - Segmentation
+        - [ ] [Unsupervised Semantic Segmentation by Contrasting Object Mask Proposals](https://arxiv.org/pdf/2102.06191.pdf) (Arxiv preprint)
 
 ### Transfer learning 
   - Transfer learning 
