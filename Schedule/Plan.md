@@ -34,7 +34,7 @@
 
 ### Unsupervised learning
   - Unsupervised learning
-    - Contrastive learning
+    - Contrastive representation learning
       - [X] [Introduction blog](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
       - [ ] [Noise-contrastive estimation: A new estimation principle forunnormalized statistical models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf)
       - [ ] [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670) (ICLR 2019)
@@ -57,6 +57,9 @@
         - [ ] [Unsupervised Person Re-identification: Clustering and Fine-tuning](https://arxiv.org/pdf/1705.10444.pdf)
         - [ ] [Prototypical Contrastive Learning of Unsupervised Representations](https://arxiv.org/pdf/2101.11939.pdf)
         - [ ] [Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID](https://proceedings.neurips.cc/paper/2020/file/821fa74b50ba3f7cba1e6c53e8fa6845-Paper.pdf) (NeurIPS 2020)
+    - Clustering
+        - [ ] [SCAN: Learning to Classify Images without Labels ](https://arxiv.org/pdf/2005.12320.pdf) (ECCV 2020)
+        - [ ] [Contrastive Clustering](https://arxiv.org/pdf/2009.09687.pdf) (AAAI 2020)
 
 ### Transfer learning 
   - Transfer learning 
