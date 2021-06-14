@@ -64,6 +64,7 @@
         - [ ] [Improving Unsupervised Image Clustering With Robust Learning](https://arxiv.org/pdf/2012.11150v2.pdf) (CVPR 2021)
         - [ ] [SPICE: Semantic Pseudo-labeling for Image Clustering](https://arxiv.org/pdf/2103.09382v1.pdf) (Arxiv preprint)
     - Segmentation
+        - [ ] [Global Contrast Based Salient Region Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6871397) (TPAMI 2015)
         - [ ] [Autoregressive Unsupervised Image Segmentation](https://arxiv.org/pdf/2007.08247.pdf) (ECCV 2020)
         - [ ] [Unsupervised Semantic Segmentation by Contrasting Object Mask Proposals](https://arxiv.org/pdf/2102.06191.pdf) (Arxiv preprint)
 
