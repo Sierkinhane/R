@@ -14,6 +14,7 @@
     - Detection
       - [ ] [Comprehensive Attention Self-Distillation for Weakly-Supervised Object Detection](https://arxiv.org/pdf/2010.12023.pdf) (NeurIPS 2020)
     - Segmentation
+      - [ ] [Revisiting Dilated Convolution: A Simple Approach for Weakly- and SemiSupervised Semantic Segmentation](https://arxiv.org/pdf/1805.04574.pdf) (CVPR 2018)
       - [X] [Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2007.01947.pdf) (ECCV 2020)
       - [X] [Find it if You Can: End-to-End Adversarial Erasing for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2011.04626)
       - [ ] [UNIVERSAL WEAKLY SUPERVISED SEGMENTATION BY PIXEL-TO-SEGMENT CONTRASTIVE LEARNING](https://arxiv.org/pdf/2105.00957v2.pdf) (ICLR 2021)
