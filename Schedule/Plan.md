@@ -7,7 +7,8 @@
 6. [Graph convolutional neural network](#Graph-convolutional-neural-network)
 7. [Transformer](#Transformer)
 8. [Image-Recognition](#Image-Recognition)
-9. [Others](#Others)
+9. [Uncertainty-learning](#Uncertainty learning)
+10. [Others](#Others)
 ### Weakly supervised learning
   - Weakly supervised learning <image-level>
     - Localization
@@ -117,6 +118,8 @@
     - [ ] [Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-tailed Classification](https://arxiv.org/abs/2001.01536) (ECCV 2020)
     - [ ] [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/abs/1904.05160) (CVPR 2019)
     - [ ] [Long-tailed Recognition by Routing Diverse Distribution-Aware Experts](https://arxiv.org/abs/2010.01809) (ICLR 2021)
+### Uncertainty learning
+  - [ ] [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://arxiv.org/pdf/1703.04977.pdf) (NeurIPS 2017)
 ### Others
   - Others
   - [ ] [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://arxiv.org/abs/1811.12231)
