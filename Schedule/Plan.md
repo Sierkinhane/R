@@ -15,6 +15,14 @@
     - Detection
       - [ ] [Comprehensive Attention Self-Distillation for Weakly-Supervised Object Detection](https://arxiv.org/pdf/2010.12023.pdf) (NeurIPS 2020)
     - Segmentation
+      - [ ] [Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation](https://arxiv.org/pdf/1603.06098.pdf) (ECCV 2016)
+      - [ ] [Bottom-Up Top-Down Cues for Weakly-Supervised Semantic Segmentation](https://arxiv.org/pdf/1612.02101.pdf) (CVPR 2017)
+      - [ ] [Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing](https://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf) (CVPR 2018)
+      - [ ] [Object region mining with adversarial erasing: A simple classification to semantic segmentation approach](https://arxiv.org/pdf/1703.08448.pdf) (CVPR 2017)
+      - [ ] [Self-Erasing Network for Integral Object Attention](https://arxiv.org/pdf/1810.09821.pdf) (NIPS 2018)
+      - [ ] [Integral Object Mining via Online Attention Accumulation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Jiang_Integral_Object_Mining_via_Online_Attention_Accumulation_ICCV_2019_paper.pdf) (ICCV 2019)
+      - [ ] [Non-Salient Region Object Mining for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2103.14581.pdf) (CVPR 2021)
+      - [ ] [Discriminative Region Suppression for Weakly-Supervised Semantic Segmentation](https://arxiv.org/pdf/2103.07246.pdf) (AAAI 2021)
       - [ ] [Revisiting Dilated Convolution: A Simple Approach for Weakly- and SemiSupervised Semantic Segmentation](https://arxiv.org/pdf/1805.04574.pdf) (CVPR 2018)
       - [X] [Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2007.01947.pdf) (ECCV 2020)
       - [X] [Find it if You Can: End-to-End Adversarial Erasing for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2011.04626)
