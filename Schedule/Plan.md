@@ -15,6 +15,7 @@
     - Detection
       - [ ] [Comprehensive Attention Self-Distillation for Weakly-Supervised Object Detection](https://arxiv.org/pdf/2010.12023.pdf) (NeurIPS 2020)
     - Segmentation
+      - [ ] [Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials](https://arxiv.org/pdf/1210.5644.pdf) (NeurIPS 2011)
       - [ ] [Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation](https://arxiv.org/abs/1502.02734) (ICCV 2015)
       - [ ] [Reliability Does Matter: An End-to-End Weakly Supervised Semantic Segmentation Approach](https://arxiv.org/abs/1911.08039) (AAAI 2020)
       - [ ] [Single-Stage Semantic Segmentation from Image Labels](https://arxiv.org/abs/2005.08104) (CVPR 2020)
