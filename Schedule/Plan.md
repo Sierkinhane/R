@@ -38,6 +38,7 @@
       - [X] [Weakly Supervised Instance Segmentation using Class Peak Response](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Weakly_Supervised_Instance_CVPR_2018_paper.pdf) (CVPR 2018)
       - [X] [Leveraging Instance-, Image- and Dataset-Level Information for Weakly Supervised Instance Segmentation](https://ieeexplore.ieee.org/abstract/document/9193980) (TPAMI 2020)
       - [ ] [Towards Partial Supervision for Generic Object Counting in Natural Scenes](https://arxiv.org/pdf/1912.06448.pdf) (TPAMI 2020)
+      - [ ] [Weakly Supervised Instance Segmentation by Learning Annotation Consistent Instances](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730256.pdf) (ECCV 2020)
 
 ### Semi-supervised learning
   - Semi-supervised learning
