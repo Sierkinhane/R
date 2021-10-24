@@ -8,7 +8,8 @@
 7. [Transformer](#Transformer)
 8. [Image-Recognition](#Image-Recognition)
 9. [Uncertainty-learning](#Uncertainty learning)
-10. [Others](#Others)
+10. [Multimodal](#Multimodal)
+11. [Others](#Others)
 ### Weakly supervised learning
   - Weakly supervised learning <image-level>
     - Localization
@@ -39,6 +40,7 @@
       - [X] [Leveraging Instance-, Image- and Dataset-Level Information for Weakly Supervised Instance Segmentation](https://ieeexplore.ieee.org/abstract/document/9193980) (TPAMI 2020)
       - [ ] [Towards Partial Supervision for Generic Object Counting in Natural Scenes](https://arxiv.org/pdf/1912.06448.pdf) (TPAMI 2020)
       - [ ] [Weakly Supervised Instance Segmentation by Learning Annotation Consistent Instances](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730256.pdf) (ECCV 2020)
+      - [] [Learning Instance Activation Maps for Weakly Supervised Instance Segmentation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Learning_Instance_Activation_Maps_for_Weakly_Supervised_Instance_Segmentation_CVPR_2019_paper.pdf) (CVPR2019)
 
 ### Semi-supervised learning
   - Semi-supervised learning
@@ -136,6 +138,9 @@
     - [ ] [Long-tailed Recognition by Routing Diverse Distribution-Aware Experts](https://arxiv.org/abs/2010.01809) (ICLR 2021)
 ### Uncertainty learning
   - [ ] [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://arxiv.org/pdf/1703.04977.pdf) (NeurIPS 2017)
+### Multimodal
+  - [X] [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
+  - [ ] [CPT: Colorful Prompt Tuning for Pre-trained Vision-Language Models](https://arxiv.org/abs/2103.00020)
 ### Others
   - Others
   - [ ] [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://arxiv.org/abs/1811.12231)
