@@ -1,15 +1,15 @@
 ##
 1. [Weakly supervised learning](#Weakly-supervised-learning)
-2. [Semi-supervised learning](#Semi-supervised-learning)
-3. [Self-supervised learning](#Self-supervised-learning)
-4. [Unsupervised learning](#Unsupervised-learning)
-5. [Transfer learning ](#Transfer-learning )
-6. [Graph convolutional neural network](#Graph-convolutional-neural-network)
-7. [Transformer](#Transformer)
-8. [Image-Recognition](#Image-Recognition)
-9. [Uncertainty-learning](#Uncertainty learning)
-10. [Multimodal](#Multimodal)
-11. [Others](#Others)
+3. [Semi-supervised learning](#Semi-supervised-learning)
+4. [Self-supervised learning](#Self-supervised-learning)
+5. [Unsupervised learning](#Unsupervised-learning)
+6. [Transfer learning ](#Transfer-learning )
+7. [Graph convolutional neural network](#Graph-convolutional-neural-network)
+8. [Transformer](#Transformer)
+9. [Image-Recognition](#Image-Recognition)
+10. [Uncertainty-learning](#Uncertainty learning)
+11. [Multimodal](#Multimodal)
+12. [Others](#Others)
 ### Weakly supervised learning
   - Weakly supervised learning <image-level>
     - Localization
@@ -40,7 +40,7 @@
       - [X] [Leveraging Instance-, Image- and Dataset-Level Information for Weakly Supervised Instance Segmentation](https://ieeexplore.ieee.org/abstract/document/9193980) (TPAMI 2020)
       - [ ] [Towards Partial Supervision for Generic Object Counting in Natural Scenes](https://arxiv.org/pdf/1912.06448.pdf) (TPAMI 2020)
       - [ ] [Weakly Supervised Instance Segmentation by Learning Annotation Consistent Instances](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730256.pdf) (ECCV 2020)
-      - [] [Learning Instance Activation Maps for Weakly Supervised Instance Segmentation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Learning_Instance_Activation_Maps_for_Weakly_Supervised_Instance_Segmentation_CVPR_2019_paper.pdf) (CVPR2019)
+      - [ ] [Learning Instance Activation Maps for Weakly Supervised Instance Segmentation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Learning_Instance_Activation_Maps_for_Weakly_Supervised_Instance_Segmentation_CVPR_2019_paper.pdf) (CVPR2019)
 
 ### Semi-supervised learning
   - Semi-supervised learning
@@ -86,6 +86,8 @@
         - [ ] [Global Contrast Based Salient Region Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6871397) (TPAMI 2015)
         - [ ] [Autoregressive Unsupervised Image Segmentation](https://arxiv.org/pdf/2007.08247.pdf) (ECCV 2020)
         - [ ] [Unsupervised Semantic Segmentation by Contrasting Object Mask Proposals](https://arxiv.org/pdf/2102.06191.pdf) (Arxiv preprint)
+        - [X] [InfoSeg: Unsupervised Semantic Image Segmentation with Mutual Information Maximization](https://arxiv.org/pdf/2110.03477.pdf) (GCPR 2021 best paper)
+        - [ ] [PiCIE: Unsupervised Semantic Segmentation using Invariance and Equivariance in Clustering](https://arxiv.org/abs/2103.17070) (CVPR 2021)
 
 ### Transfer learning 
   - Transfer learning 
