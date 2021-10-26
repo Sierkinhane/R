@@ -87,7 +87,8 @@
         - [ ] [Autoregressive Unsupervised Image Segmentation](https://arxiv.org/pdf/2007.08247.pdf) (ECCV 2020)
         - [ ] [Unsupervised Semantic Segmentation by Contrasting Object Mask Proposals](https://arxiv.org/pdf/2102.06191.pdf) (Arxiv preprint)
         - [X] [InfoSeg: Unsupervised Semantic Image Segmentation with Mutual Information Maximization](https://arxiv.org/pdf/2110.03477.pdf) (GCPR 2021 best paper)
-        - [ ] [PiCIE: Unsupervised Semantic Segmentation using Invariance and Equivariance in Clustering](https://arxiv.org/abs/2103.17070) (CVPR 2021)
+        - [X] [PiCIE: Unsupervised Semantic Segmentation using Invariance and Equivariance in Clustering](https://arxiv.org/abs/2103.17070) (CVPR 2021)
+        - [ ] [Invariant Information Clustering for Unsupervised Image Classification and Segmentation](https://arxiv.org/abs/1807.06653) (ICCV 2019)
 
 ### Transfer learning 
   - Transfer learning 
