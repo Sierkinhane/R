@@ -41,10 +41,10 @@
       - [ ] [Towards Partial Supervision for Generic Object Counting in Natural Scenes](https://arxiv.org/pdf/1912.06448.pdf) (TPAMI 2020)
       - [ ] [Weakly Supervised Instance Segmentation by Learning Annotation Consistent Instances](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730256.pdf) (ECCV 2020)
       - [ ] [Learning Instance Activation Maps for Weakly Supervised Instance Segmentation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Learning_Instance_Activation_Maps_for_Weakly_Supervised_Instance_Segmentation_CVPR_2019_paper.pdf) (CVPR2019)
-      - Visual Grounding
-        - [X] [Distributed Attention for Grounded Image Captioning](https://arxiv.org/abs/2108.01056) (ACM MM 2021)
-        - [ ] [Phrase Localization Without Paired Training Examples](https://arxiv.org/abs/1908.07553) (ICCV 2019)
-        - [ ] [Relation-aware Instance Refinement for Weakly Supervised Visual Grounding](https://arxiv.org/abs/2103.12989) (CVPR 2021)
+    - Visual Grounding
+      - [X] [Distributed Attention for Grounded Image Captioning](https://arxiv.org/abs/2108.01056) (ACM MM 2021)
+      - [ ] [Phrase Localization Without Paired Training Examples](https://arxiv.org/abs/1908.07553) (ICCV 2019)
+      - [ ] [Relation-aware Instance Refinement for Weakly Supervised Visual Grounding](https://arxiv.org/abs/2103.12989) (CVPR 2021)
 
 ### Semi-supervised learning
   - Semi-supervised learning
