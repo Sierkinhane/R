@@ -9,7 +9,8 @@
 9. [Image-Recognition](#Image-Recognition)
 10. [Uncertainty-learning](#Uncertainty learning)
 11. [Multimodal](#Multimodal)
-12. [Others](#Others)
+12. [Causal Inference](#Causal Inference)
+13. [Others](#Others)
 ### Weakly supervised learning
   - Weakly supervised learning <image-level>
     - Localization
